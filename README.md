@@ -63,7 +63,7 @@ You will experience unusual behavior if the `My Games` folder (usually in the `D
 
 **Make Exceptions for Anti-Malware Programs**
 
-Exclude antivirus and anti-malware programs from monitoring three directories: those containing the _Wabbajack_ app, the _Skyrim Special Edition_ game folder, and the directory in which you wish to install the modlist. The list will not install or run properly otherwise. Particularly intrusive malware solutions such as _Bitdefender_ and _Webroot_ must be fully uninstalled due to technical limitations. Unfortunately, _Windows Defender_ is the only recommended antimalware solution one should use with _Wabbbajack._
+Exclude antivirus and anti-malware programs from monitoring three directories: those containing the _Wabbajack_ app, the _Skyrim Special Edition_ game folder, and the directory in which you wish to install the modlist. The list will not install or run properly otherwise. Particularly intrusive malware solutions such as _Bitdefender_ and _Webroot_ must be fully uninstalled due to technical limitations. Unfortunately, _Windows Defender_ is the only recommended antimalware solution one should use with _Wabbajack._
 
 **Set Pagefile to 40GB Or Above**
 
@@ -95,7 +95,7 @@ Some Internet providers have difficulty accessing the servers which host the fil
 
 **Wabbajack could not find my game folder:**
 
-_Licentia Black_ will not work with a GOG or pirated version of the game. If you own the game on _Steam,_ go back to the Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator. **DO NOT ASK FOR HELP WITH PIRATED GAMES.**
+_Licentia Black_ will not work with a GOG or pirated version of the game. If you own the game on _Steam,_ go back to the Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator. **Asking for help with pirated copies of the game will get you banned from Discord Support.**
 
 **MEGA download cap exceeded.**
 
