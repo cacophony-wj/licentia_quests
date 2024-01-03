@@ -148,7 +148,7 @@ When you reach your first exterior world location, you will be prompted to enabl
 
 You will also receive a prompt about which Divine and/or Daedra you wish to worship, depending on your race. Choose according to your preference.
 
-### NEW! Confused about where to begin?
+### Confused about where to begin?
 
 [Try a helpful _Licentia_ starting guide](https://www.canva.com/design/DAF1LecdP9M/zve9MIfRDE2D50dxXsBEWA/edit) by my friend @Charlistic!
 
