@@ -19,9 +19,9 @@ _Licentia QUESTS_ is variant of _Licentia_, one of _Wabbajack's_ oldest and most
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
 - [LoversLab Account](https://www.loverslab.com/)
 
-# BEFORE YOU BEGIN! VERY IMPORTANT!
+These accounts are mandatory, they must be created before continuing. _Nexus Premium_ is strongly recommended or the installation time will take many more hours (possibly days).
 
-The adult mods in this list require an account at the [Lover's Lab website](https://www.loverslab.com). Such an account is mandatory. One must be created before continuing.
+# BEFORE YOU BEGIN! VERY IMPORTANT!
 
 The _Lover's Lab API_ (automatic download interface) is no longer available due to technical considerations, so it is recommended to download all mods from there in a normal web browser _before launching Wabbajack._ In addition, several files from other third-party hosts such as _MEGA_ and _Google Drive_ often have difficulty, so those must be downloaded as well. To do so, take the following steps.
 
@@ -75,7 +75,7 @@ On _Windows 11_ you can find this setting in the About page for your PC. [Here](
 
 **Ensure Enough Free Storage Space**
 
-As of this writing approximately **20GB** is required for the `Steam` folder, **180 GB** for the downloads folder, and **260 GB** for the modlist folder. Approximately **30 GB** of free space is required on your `Windows` drive and **30 GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Thus the total required space is approximately **520 GB.** These do not all need to be on the same drive. 
+As of this writing approximately **20GB** is required for the `Steam` folder, **228 GB** for the downloads folder, and **386 GB** for the modlist folder. Approximately **30 GB** of free space is required on your `Windows` drive and **30 GB** additional free space on your `Wabbajack` drive to leave room for temporary files, patches, and caches. Thus the total required space is approximately **694 GB.** These do not all need to be on the same drive. 
  
 ##  Using Wabbajack
 
