@@ -4,6 +4,8 @@
 
 ![Licentia Black Logo](images/4k_licentia_logo.webp)
 
+# Licentia QUESTS 
+
 ## "All I want to be is a badass comic book hottie who fucks and cuts heads."
 
 ## Preamble
