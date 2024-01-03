@@ -14,6 +14,13 @@
 
 _Licentia QUESTS_ is variant of _Licentia_, one of _Wabbajack's_ oldest and most well-regarded adult modlists, featuring optional non-fetish content with the _OSuite_ series of _OSA / OStim_ mods and an emphasis on build variety, backed up by an accessible Power Fantasy design philosophy. It _greatly expands_ the default _Licentia_ Content with over a dozen alternate Profiles to suit multiple playstyles. You can read about all the available Profiles for _Licentia QUESTS_ [here](PROFILES.md).
 
+## System Specifications
+
+The recommended setup for an enjoyable experience **at 1080p** is at least
+
+- intel i7 or AMD Ryzen 5600 or later
+- NVIDIA RTX 2070 SUPER or AMD Radeon 5700 XT or later
+
 ## Requirements
 
 - [Nexus Account](https://nexusmods.com/)
@@ -110,13 +117,6 @@ This shouldn't happen unless you download the list multiple times or download mu
 If _Wabbajack_ terminates without a green "COMPLETE" success box and instead gives you this message, refer to the manual download links at the top of this document. Almost all of the files that commonly fail are listed there. 
 
 ## Post-Installation
-
-### System Specifications
-
-The list's performance requirements have been greatly increased, therefore, the recommended setup for an enjoyable experience **at 1080p** is at least
-
-- intel i7 or AMD Ryzen 5600 or later
-- NVIDIA RTX 2070 SUPER or AMD Radeon 5700 XT or later
 
 If you wish to change your game's resolution, select the "INI Editor" from the _Tools_ menu along the icon bar of MO2 and change it via the `SkyrimPrefs.ini` file. Scroll down until you see the `[Display]` header and look for the `iSize` values. Note that the TYPICAL ORDER IS REVERSED, the HEIGHT is listed BEFORE the WIDTH.
 
