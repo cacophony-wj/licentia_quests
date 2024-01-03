@@ -168,7 +168,7 @@ You will also receive a prompt about which Divine and/or Daedra you wish to wors
 
 ## Updating the Modlist
 
-Download the modlist's `.wabbajack` file again and specify the same directories. _Wabbajack_ will keep the files in your local copy of the modlist that haven't changed and update those which have. It is rarely recommended to continue a save when you update a modlist.
+Download the modlist's `.wabbajack` file again and specify the same directories. _Wabbajack_ will only update what has changed, it will not repeat the entire installation. It is rarely recommended to continue a save when you update a modlist.
 
 ## Removing the Modlist
 
