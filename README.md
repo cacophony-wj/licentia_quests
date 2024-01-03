@@ -27,7 +27,7 @@ Create a directory for your chosen modlist. Something in the root folder of a fa
 
 Within that directory, create another directory called `downloads` -- in all lower case. (`D:\Licentia\downloads`)
 
-Refer to this document for links to all of the External Mods you need to download. Place all of the files in the `downloads` directory you created above. **DO NOT EXTRACT THEM,** they need to be _exactly_ as downloaded from the website.
+Refer to [this document](DOWNLOADS.md) for links to all of the External Mods you need to download. Place all of the files in the `downloads` directory you created above. **DO NOT EXTRACT THEM,** they need to be _exactly_ as downloaded from the website.
 
 ## Installation
 
