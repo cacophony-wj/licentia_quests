@@ -14,21 +14,21 @@
 
 _Licentia QUESTS_ is variant of _Licentia_, one of _Wabbajack's_ oldest and most well-regarded adult modlists, featuring optional non-fetish content with the _OSuite_ series of _OSA / OStim_ mods and an emphasis on build variety, backed up by an accessible Power Fantasy design philosophy. It _greatly expands_ the default _Licentia_ Content with over a dozen alternate Profiles to suit multiple playstyles. You can read about all the available Profiles for _Licentia QUESTS_ [here](PROFILES.md).
 
-## System Specifications
+### System Specifications
 
 The recommended setup for an enjoyable experience **at 1080p** is at least
 
 - intel i7 or AMD Ryzen 5600 or later
 - NVIDIA RTX 2070 SUPER or AMD Radeon 5700 XT or later
 
-## Requirements
+### Requirements
 
 - [Nexus Account](https://nexusmods.com/)
 - [LoversLab Account](https://www.loverslab.com/)
 
 These accounts are mandatory, they must be created before continuing. _Nexus Premium_ is strongly recommended or the installation time will take many more hours (possibly days).
 
-# BEFORE YOU BEGIN! VERY IMPORTANT!
+### BEFORE YOU BEGIN
 
 The _Lover's Lab API_ (automatic download interface) is no longer available due to technical considerations, so it is recommended to download all mods from there in a normal web browser _before launching Wabbajack._ In addition, several files from other third-party hosts such as _MEGA_ and _Google Drive_ often have difficulty, so those must be downloaded as well. To do so, take the following steps.
 
@@ -126,13 +126,13 @@ If you are confident you meet the above target, but still experience severe perf
 
 Launch _ModOrganizer.exe_ from the directory in which you installed the list. Launch the game from the **SKSE** entry in the drop-down menu.
 
-## MCM CONFIGURATION
+### MCM CONFIGURATION
 
-## WHEN YOU SPAWN IN HELGEN'S INN, DO NOT TOUCH ANYTHING!
+### WHEN YOU SPAWN IN HELGEN'S INN, DO NOT TOUCH ANYTHING!
 
 Wait until all the messages appear then disappear in the upper left corner of the screen. Then you may continue.
 
-## MCM Recorder
+### MCM Recorder
 
 Find the _MCM Recorder_ menu in the _Mod Configuration_ menu accessible via the `ESCAPE` key or the `START` button. 
 
