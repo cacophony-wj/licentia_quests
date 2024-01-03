@@ -118,6 +118,20 @@ If _Wabbajack_ terminates without a green "COMPLETE" success box and instead giv
 
 ## Post-Installation
 
+### Verifying the Modlist
+
+_Licentia_ is over 500GB in size. To install the list, _Wabbajack_ downloads and patches hundreds of thousands of files. During the installation process several of these files are likely to have failed or corrupted in some way. Before finishing up with the _Wabbajack_ app, it is **strongly recommended** to run a file verification step or the modlist may be nearly unplayable.
+
+To verify the modlist, click the Gear icon in the upper right once again. Click the button along the middle-left that reads "Launch Wabbajack CLI." Type the following command:
+
+`wabbajack-cli verify-modlist-install -m "path to the Licentia.wabbajack file" -i "Licentia install folder path"`
+
+Obviously you will need to replace the portions in quotations with the specific file locations on your system. The Command Line Interface will hash and verify every file in the list against a known signature.
+
+You must keep reinstalling the list until every file returns as a 100% match. This may be much more difficult if your Internet connection is poor, or the _Wabbajack_ app is frequently interrupted.
+
+### Tweaking the Modlist
+
 If you wish to change your game's resolution, select the "INI Editor" from the _Tools_ menu along the icon bar of MO2 and change it via the `SkyrimPrefs.ini` file. Scroll down until you see the `[Display]` header and look for the `iSize` values. Note that the TYPICAL ORDER IS REVERSED, the HEIGHT is listed BEFORE the WIDTH.
 
 If you are confident you meet the above target, but still experience severe performance drops, you may need to customize your `BIOS` settings to maximize your hardware. Refer to your motherboard's documentation. The most common failure point is too-low RAM speed, which can often be addressed by enabling either the "XMP" or "DOCP" profiles.
