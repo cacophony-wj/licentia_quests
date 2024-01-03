@@ -136,7 +136,7 @@ If you wish to change your game's resolution, select the "INI Editor" from the _
 
 If you are confident you meet the above target, but still experience severe performance drops, you may need to customize your `BIOS` settings to maximize your hardware. Refer to your motherboard's documentation. The most common failure point is too-low RAM speed, which can often be addressed by enabling either the "XMP" or "DOCP" profiles.
 
-### Launching the List
+### Launching the Modlist
 
 Launch _ModOrganizer.exe_ from the directory in which you installed the list. Launch the game from the **SKSE** entry in the drop-down menu.
 
