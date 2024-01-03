@@ -164,8 +164,6 @@ You can just remove the _Licentia_ folder.
 
 I am regularly available on [my discord server](https://discord.gg/jolly-coop).
 
-If you enjoyed playing this modlist and feel that your time spent with it was worth any amount of money, consider giving me a tip. There are donation options ranging from $1 to $35 (with a merch bonus) to extravagant gifts from an Amazon wishlist. Consult my webpage at [cacophony.me](https://cacophony.me) for details. The donation links are at the bottom of the main page.
-
 ## Contributing
 
 See [Contributing](CONTRIBUTING.md).
