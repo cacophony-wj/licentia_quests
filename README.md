@@ -16,7 +16,7 @@ _Licentia QUESTS_ is variant of _Licentia_, one of _Wabbajack's_ oldest and most
 
 ## Requirements
 
-- [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
+- [Nexus Account](https://nexusmods.com/)
 - [LoversLab Account](https://www.loverslab.com/)
 
 These accounts are mandatory, they must be created before continuing. _Nexus Premium_ is strongly recommended or the installation time will take many more hours (possibly days).
