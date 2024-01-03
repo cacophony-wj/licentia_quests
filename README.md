@@ -167,20 +167,3 @@ I am regularly available on [my discord server](https://discord.gg/jolly-coop).
 For more information about me, as well as ways to show your appreciation for my work, visit https://cacophony.me
 
 My _Licentia_ related email is cacophony-wj@outlook.com.
-
-## Contributing
-
-See [Contributing](CONTRIBUTING.md).
-
-## Changelog
-
-See [Changelog](CHANGELOG.md).
-
-## Credits
-
-**Menu Theme:**
-```
-Parallel Synthesis by | e s c p | https://escp-music.bandcamp.com
-Music promoted by https://www.free-stock-music.com
-Creative Commons / Attribution 4.0 International (CC BY 4.0)
-https://creativecommons.org/licenses/by/4.0/`
