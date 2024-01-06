@@ -170,7 +170,7 @@ You will also receive a prompt about which Divine and/or Daedra you wish to wors
 
 ## Alternate Versions
 
-Alternate Versions of the modlist are also available. You probably know about the original _Licentia_ already, available from the _Wabbajack_ app -- it has been much more heavily tested and I generally recommend that version for as stable a long-term playthrough you can get with a heavy NSFW setup. There is also a **MEGA** version of _SERVITIUM_ available that has a couple of alternate profiles. Check the #list-updates channel when you get there.
+Alternate Versions of the modlist are also available. You probably know about the original _Licentia_ already, available from the _Wabbajack_ app -- it has been much more heavily tested and I generally recommend that version for as stable a long-term playthrough you can get with a heavy NSFW setup. _SERVITIUM,_ in the "Unofficial NSFW" section of the _Wabbajack_ UI, features a SexLab setup with a traditional Devious emphasis for those more accustomed to that content. There is also a **MEGA** version of _SERVITIUM_ available that has a couple of alternate profiles. Check the #list-updates channel when you get there.
 
 ## Modifications
 
