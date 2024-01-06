@@ -168,6 +168,28 @@ You will also receive a prompt about which Divine and/or Daedra you wish to wors
 
 [Try a helpful _Licentia_ starting guide](https://www.canva.com/design/DAF1LecdP9M/zve9MIfRDE2D50dxXsBEWA/edit) by my friend @Charlistic!
 
+## Alternate Versions
+
+Alternate Versions of the modlist are also available. You probably know about the original _Licentia_ already, available from the _Wabbajack_ app -- it has been much more heavily tested and I generally recommend that version for as stable a long-term playthrough you can get with a heavy NSFW setup. There is also a **MEGA** version of _SERVITIUM_ available that has a couple of alternate profiles. Check the #list-updates channel when you get there.
+
+## Modifications
+
+Unlike many modlists, _Licentia_ was designed for ease of customization. You are welcome to make whatever additions desired provided the understanding is reached that support for them is not guaranteed. You can find guides for commonly-made customizations below.
+
+- To improve performance on low end or midrange systems, [consult the Performance Improvement Guide.](https://github.com/cacophony-wj/licentia_black/blob/main/Vast-Performance-Improvement.MD)
+- To enable controller support for _Licentia,_ [consult the controller guide](controller-guide.md).
+- To use _Skyrim Outfit System_ (the transmog mod) properly, [consult the guide for it here](SoS-OutfitSystem-Guide.md).
+- To add new animations to your copy of _Licentia_, [be sure to run Nemesis afterward](How-To-Run-Nemesis.md).
+- To add outfits to your copy of _Licentia,_ [consult the BodySlide document](How-To-Add-Outfits.md).
+- To add a few mods that are commonly requested, [consult the Common Additions document.](https://github.com/cacophony-wj/licentia_black/blob/main/Common-Additions.md) You can request your own!
+- **NOTE:** _Synthesis_ is no longer mandatory for most additions, but you can run it if you really want to. [Use the guide here.](How-To-Run-Synthesis.md).
+
+For help with your additions, stop by my Discord server and you might just get it!
+
+## Commissions
+
+Don't feel like doing the work yourself? I am available to make your own customizations to my modlist for a small gratuity if you just can't figure out how to work it in. I can also build a customized version of the list for you provided it's not too extensive and compensation is appropriate. Meet me on my Discord server to discuss details.
+
 ## Updating the Modlist
 
 Download the modlist's `.wabbajack` file again and specify the same directories. _Wabbajack_ will only update what has changed, it will not repeat the entire installation. It is rarely recommended to continue a save when you update a modlist.
