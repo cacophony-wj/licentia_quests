@@ -70,9 +70,9 @@ URL: https://mega.nz/file/RQ113BKT#qoYV6zZQsugesTYIFXqFv4_64MixzwRzH4Hk1jZqTGM
 
 File: `Kaidan Extended All-In-One 1.8.5.7z`
 
-URL: https://mega.nz/file/1Q1igILL#LC48moa78K_TsM4DDYFR90nOmeeqkde0e4SsFzzlldg
+URL: https://mega.nz/file/QEJHyaaC#b9lTNnl-WnN_YJqYRBYHIptG5DQ0RqHREtkG7rJYKTA
 
-File: `Kaidan Extended All-In-One 1.7.6.7z`
+File: `xLODGen.106.7z`
 
 ## HOSTED SITE: GOOGLE DRIVE
 
