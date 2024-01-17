@@ -16,7 +16,7 @@ _Licentia QUESTS_ is variant of _Licentia_, one of _Wabbajack's_ oldest and most
 
 #### More Information
 
-If you are interested in examining a complete list of the mods in this modlist, [go here.](https://loadorderlibrary.com/lists/licentia-quests-1) **Attention:** Not all variants listed.
+If you are interested in examining a complete list of the mods in this modlist, [go here.](https://loadorderlibrary.com/lists/licentia-quests-1) **Attention:** Not all variants listed. For a brief overview, [read this document.](ALTERNATES.md)
 
 ### System Specifications
 
