@@ -14,6 +14,10 @@
 
 _Licentia QUESTS_ is variant of _Licentia_, one of _Wabbajack's_ oldest and most well-regarded adult modlists, featuring optional non-fetish content with the _OSuite_ series of _OSA / OStim_ mods and an emphasis on build variety, backed up by an accessible Power Fantasy design philosophy. It _greatly expands_ the default _Licentia_ Content with over a dozen alternate Profiles to suit multiple playstyles. You can read about all the available Profiles for _Licentia QUESTS_ [here](PROFILES.md).
 
+#### More Information
+
+If you are interested in examining a complete list of the mods in this modlist, [go here.](https://loadorderlibrary.com/lists/licentia-quests-1/edit)
+
 ### System Specifications
 
 The recommended setup for an enjoyable experience **at 1080p** is at least
