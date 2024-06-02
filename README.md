@@ -56,7 +56,7 @@ The download process for the _Anniversary Edition Upgrade Content_ will begin af
 
 ###  Installing Microsoft Visual C++ Redistributable Package
 
-The _Microsoft Visual C++_ redistributable package is required for _Mod Organizer 2_ and you can download it from _Microsoft._ Download the x64 version under "Visual Studio 2015, 2017 and 2019" [here](https://aka.ms/vs/16/release/vc_redist.x64.exe).
+The _Microsoft Visual C++_ redistributable package is required for _Mod Organizer 2_ (as well as certain mods included with _Licentia_) and you can download it from _Microsoft._ Download the x64 version of "Visual Studio 2015, 2017, 2019 and 2022" [here](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 
 ###  Steam Config
 
