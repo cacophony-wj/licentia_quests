@@ -6,18 +6,6 @@ It is vastly preferable to download all of these manually before you even attemp
 
 ## HOSTED SITE: LOVER'S LAB
 
-### ERF Futanari CBBE
-
-URL: https://www.loverslab.com/files/file/11344-sos-addon-futanari-cbbe-sse/
-
-File: `SOS - Futanari CBBE SSE V1.1b.7z`
-
-## Futanari Textures for REALORE SKIN ULTIMA
-
-URL: https://www.loverslab.com/files/file/28632-futanari-textures-for-realore-skin-ultima
-
-File='REALORE SKIN ULTIMA - ERF patch.rar`
-
 ### Hel Rising - Norse Dungeon, Quest, and Follower Mod SE
 
 URL: https://www.loverslab.com/files/file/18745-hel-rising-norse-dungeon-quest-and-follower-mod-se/
@@ -32,51 +20,11 @@ URL: https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-quest-mo
 
 File: `https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-quest-mod-se/`
 
-### OStim Solutions - A SexLab Solutions Revisited Port
-
-URL: https://www.loverslab.com/files/file/17441-ostim-solutions-a-sexlab-solutions-revisited-port/
-
-File: `SexLab_Solutions_Revisited_SE_-_Ostim_Beta_5.zip`
-
-### Schlongs of Skyrim SE
-
-URL: https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/?do=download
-
-File: `Schlongs_of_Skyrim_SE - v1.14.rar`
-
 ### Skyrim Vixens - Legacy of the Dragonborn Painting Replacer
 
 URL: https://www.loverslab.com/files/file/27064-skyrim-vixens-legacy-of-the-dragonborn-painting-replacer-v11/
 
 File: `548469150_SkyrimVixens-LegacyoftheDragonbornPaintingReplacerV1.1.7z`
-
-### SOS - No Futanari Schlong - Addon
-
-URL: https://www.loverslab.com/files/file/13011-sos-no-futanari-schlong-addon/
-
-File: `SOS - No Futanari Schlong - Addon.7z`
-
-### SOS - PapyrusUtil Version
-
-URL: https://www.loverslab.com/topic/95031-schlongs-of-skyrim-se/page/123/
-
-File: `SOS PapyrusUtil version Beta 4 (UPDATE).7z`
-
-Note: This file is not a traditional download. It is an attachment to a forum post by @Erstam, about halfway down the page.
-
-## HOSTED SITE: MEGA
-
-### Kaidan Extended 
-
-URL: https://mega.nz/file/RQ113BKT#qoYV6zZQsugesTYIFXqFv4_64MixzwRzH4Hk1jZqTGM
-
-File: `Kaidan Extended All-In-One 1.8.5.7z`
-
-### xLODGen
-
-URL: https://mega.nz/file/QEJHyaaC#b9lTNnl-WnN_YJqYRBYHIptG5DQ0RqHREtkG7rJYKTA
-
-File: `xLODGen.106.7z`
 
 ## HOSTED SITE: GOOGLE DRIVE
 
